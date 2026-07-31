@@ -1,0 +1,15 @@
+.DS_Store
+.idea/
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+__pycache__/
+.venv/
+private/
+tmp/
