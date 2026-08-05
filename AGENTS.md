@@ -5,6 +5,7 @@ This repository contains one probability research note and its verification mate
 ## Sources of truth
 
 - `signed_faithfulness_luce_choices.tex` contains the theorem statements and proofs.
+- `HANDOFF.md` contains current state, unresolved gates, and the ordered path to a reviewed release.
 - `novelty_and_submission_notes.md` records the bounded novelty claim and review risks.
 - `verification/exact_verification.py` checks finite instances with exact rational arithmetic.
 - `submission/arxiv_metadata.md` contains provisional submission metadata.

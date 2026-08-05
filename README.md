@@ -3,6 +3,9 @@
 This repository contains a short probability paper about top-choice events extracted from one
 Plackett--Luce ranking.
 
+Start with [`HANDOFF.md`](HANDOFF.md) for the exact project state, remaining gates, publication path,
+and extension priorities.
+
 For independent exponential clocks $X_v\sim\operatorname{Exp}(\lambda_v)$, define
 
 \[
@@ -31,6 +34,7 @@ The statements also hold for independent clocks with a common proportional-hazar
 
 ## Repository map
 
+- [`HANDOFF.md`](HANDOFF.md): current state, unresolved decisions, and the path to a reviewed release
 - [`signed_faithfulness_luce_choices.tex`](signed_faithfulness_luce_choices.tex): manuscript source
 - [`novelty_and_submission_notes.md`](novelty_and_submission_notes.md): closest results, exact novelty
   boundary, and remaining review risks
